@@ -1,0 +1,11 @@
+{
+    "name": "cloud-functions-billing",
+    "version": "0.0.1",
+    "dependencies": {
+        "google-auth-library": "^7.3.0",
+        "googleapis": "^81.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.31.0"
+    }
+}
